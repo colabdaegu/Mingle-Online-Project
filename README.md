@@ -1,5 +1,5 @@
 # 둥글게 둥글게 온라인
-
+![Preview](.git-Images/Mingle_icon.ico)  
 > 음악이 멈추는 순간, 생존을 건 사투가 시작된다  
 > 제한된 시간, 정해진 인원… 정확히 맞춘 방만 생존!
 
@@ -23,5 +23,3 @@
 - Engine: **Unreal Engine 5.4**
 - Platform: **PC**
 - Genre : **배틀로얄, 서바이벌**
-
-![Preview](.git-Images/Mingle_icon.ico)
